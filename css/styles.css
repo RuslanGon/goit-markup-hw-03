@@ -122,6 +122,21 @@ border: none;
 
 .section-requirements {
     padding-bottom: 120px;
+
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    bottom: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+    
 }
 
 .Our-Portfolio {
@@ -137,6 +152,7 @@ border: none;
     letter-spacing: 0.72px;
     text-transform: capitalize;
     margin-bottom: 72px;
+    text-align: center;
 }
 
 .team-img {
