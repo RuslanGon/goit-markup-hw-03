@@ -1,0 +1,130 @@
+
+body {
+font-family: 'Roboto', sans-serif;
+background-color: #FFF;
+color: #434455 ;
+}
+
+ul { list-style: none;}
+
+a { text-decoration: none; }
+
+.adress { font-style: normal;}
+
+.header-logo {
+    color: #4D5AE5;
+    font-family: Raleway,sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+.header-logo-web {
+    color: #2E2F42;
+}
+.nav-link {
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5; 
+    letter-spacing: 0.32px;
+
+}
+
+.contaks-link {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5; 
+    letter-spacing: 0.32px;
+
+}   
+
+.section-effect {
+    background: #2E2F42;
+}
+.main-effect {
+    color: #FFF;
+    text-align: center;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.07; 
+    letter-spacing: 1.12px;
+}
+.button {
+    color: #FFF;
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5; 
+letter-spacing: 0.64px;
+background:#4D5AE5;
+cursor: pointer;
+
+}
+.button:hover,
+.button:focus {
+    color: #FFF;
+    background-color: #404BBF;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: #404BBF;
+}
+
+.contaks-link:hover,
+.contaks-link:focus {
+    color: #404BBF;
+}
+
+.title {
+    color: #2E2F42;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11; 
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
+
+
+.title-item-text {
+    color:#2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2; 
+    letter-spacing: 0.4px;
+
+}
+.list-text {
+    color:#434455;
+    font-size: 16px;
+    line-height: 1.5; 
+    letter-spacing: 0.32px;
+}
+
+.our-team {
+    background-color:#F4F4FD;
+}
+
+.team-item { background-color: #FFFFFF; }
+
+.footer {
+background: #2E2F42;
+}
+
+.footer-logo {
+    color: #F4F4FD;
+
+}
+
+.footer-text {
+    color: #F4F4FD;
+    font-size: 16px;
+    line-height: 1.5; 
+    letter-spacing: 0.32px;
+}
+
