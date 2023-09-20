@@ -11,6 +11,30 @@ a { text-decoration: none; }
 
 .adress { font-style: normal;}
 
+p,h1,h2,h3,h4,h5,h6 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+.container {
+    width: 100%;
+    min-width: 1470px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+    outline: 2px solid red;
+}
+
+.header {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
 .header-logo {
     color: #4D5AE5;
     font-family: Raleway,sans-serif;
@@ -42,8 +66,16 @@ a { text-decoration: none; }
 }   
 
 .section-effect {
-    background: #2E2F42;
+    padding-bottom: 120px;
+   
+    
 }
+
+.effect-container {
+    background: #2E2F42;
+    padding: 188px 472px 188px 472px;
+}
+
 .main-effect {
     color: #FFF;
     text-align: center;
@@ -52,6 +84,8 @@ a { text-decoration: none; }
     font-weight: 700;
     line-height: 1.07; 
     letter-spacing: 1.12px;
+    margin-bottom: 48px;
+    max-width: 496px;
 }
 .button {
     color: #FFF;
@@ -80,6 +114,10 @@ cursor: pointer;
     color: #404BBF;
 }
 
+.section-requirements {
+    padding-bottom: 120px;
+}
+
 .title {
     color: #2E2F42;
     text-align: center;
@@ -97,6 +135,7 @@ cursor: pointer;
     font-weight: 500;
     line-height: 1.2; 
     letter-spacing: 0.4px;
+    margin-bottom: 8px;
 
 }
 .list-text {
