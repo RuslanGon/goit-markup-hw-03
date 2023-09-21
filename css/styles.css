@@ -196,8 +196,8 @@ display: block;
     overflow: hidden;
   }
 
-.Our-Portfolio {
-    padding-top: 120px;
+.our-portfolio {
+    padding: 120px 0;
 }
 
 .title {
@@ -242,6 +242,10 @@ display: block;
 .team-list {
     display: flex;
     gap: 24px;
+   }
+
+   .our-portfolio {
+
    }
 
 .portfolio-list {
