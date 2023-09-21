@@ -292,7 +292,7 @@ padding: 100px 0;
     text-transform: uppercase;
     margin-bottom: 16px;
     flex-shrink: 0;
-    display: flex;
+    display: inline-block;
 }
 
 
