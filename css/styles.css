@@ -42,12 +42,6 @@ header .container {
     gap: 332px;
 }
 
-
-.header {
-    padding-top: 24px;
-    padding-bottom: 24px;
-}
-
 .header-logo {
     color: #4D5AE5;
     font-family: Raleway,sans-serif;
@@ -85,12 +79,7 @@ header .container {
 }
 
 .nav-item {
-    display: block;
-    font-weight: 500;
-    line-height: 1.5; 
-    letter-spacing: 0.32px;
-    padding: 24px 0;
-    color: #2E2F42;
+ 
 }
 
 .nav-link:hover, .nav-link:focus {
@@ -216,10 +205,6 @@ display: block;
     display: flex;
     gap: 24px;
    }
-
-.team-img {
-    margin-bottom: 32px;
-}
 
 .title-item-text {
     color:#2E2F42;
